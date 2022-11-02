@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "name": "bootscripted",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
